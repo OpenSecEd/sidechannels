@@ -1,4 +1,4 @@
-Module: Trusted Computing (trustcomp)
+Module: Side Channels (sidechannels)
 ===============================================================================
 
 This is a learning module on Side Channels.  It's aim is to give the students 
